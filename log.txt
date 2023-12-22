@@ -3252,3 +3252,17 @@ batch_idx:164, episode_len:51.0, tie: 0, black: 0, white: 0, loss: 3.3213, entro
 batch_idx:165, episode_len:87.0, tie: 0, black: 0, white: 0, loss: 3.4908, entropy: 3.6019
 batch_idx:166, episode_len:44.0, tie: 0, black: 0, white: 0, loss: 3.2499, entropy: 3.2780
 batch_idx:167, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.4080, entropy: 3.3518
+batch_idx:168, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.2312, entropy: 3.1815
+batch_idx:169, episode_len:53.0, tie: 0, black: 0, white: 0, loss: 3.2199, entropy: 3.1896
+batch_idx:170, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.1437, entropy: 3.1436
+batch_idx:171, episode_len:55.0, tie: 0, black: 0, white: 0, loss: 3.2124, entropy: 3.2020
+batch_idx:172, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.4140, entropy: 3.6493
+batch_idx:173, episode_len:96.0, tie: 0, black: 0, white: 0, loss: 3.1182, entropy: 3.2881
+batch_idx:174, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.1213, entropy: 3.0467
+batch_idx:175, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.4762, entropy: 3.6598
+batch_idx:176, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.3423, entropy: 3.4875
+batch_idx:177, episode_len:28.0, tie: 0, black: 0, white: 0, loss: 3.2196, entropy: 3.3485
+batch_idx:178, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.2649, entropy: 3.3385
+batch_idx:179, episode_len:225.0, tie: 0, black: 0, white: 0, loss: 3.2688, entropy: 3.5014
+batch_idx:180, episode_len:73.0, tie: 0, black: 0, white: 0, loss: 3.1878, entropy: 3.3423
+batch_idx:181, episode_len:52.0, tie: 0, black: 0, white: 0, loss: 3.2288, entropy: 3.2845
