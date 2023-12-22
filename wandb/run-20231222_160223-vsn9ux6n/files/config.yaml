@@ -1,0 +1,75 @@
+wandb_version: 1
+
+run_name:
+  desc: null
+  value: gomuku-2023-12-22-16-02
+project_name:
+  desc: null
+  value: fine
+save_dir:
+  desc: null
+  value: ./model
+in_channels:
+  desc: null
+  value: 7
+drop_out:
+  desc: null
+  value: 0.0001
+device:
+  desc: null
+  value: cuda:0
+learning_rate:
+  desc: null
+  value: 0.0004
+weight_decay:
+  desc: null
+  value: 1.0e-05
+use_attention:
+  desc: null
+  value: true
+n_iterations:
+  desc: null
+  value: 5000
+buffer_size:
+  desc: null
+  value: 8192
+n_playout:
+  desc: null
+  value: 400
+board_size:
+  desc: null
+  value: 15
+update_times_per_episode:
+  desc: null
+  value: 5
+log_freq:
+  desc: null
+  value: 200
+batch_size:
+  desc: null
+  value: 256
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.4
+    cli_version: 0.16.1
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: true
+    start_time: 1703232143.06555
+    t:
+      1:
+      - 1
+      - 53
+      - 55
+      - 105
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.11.4
+      5: 0.16.1
+      8:
+      - 2
+      - 5
+      13: linux-x86_64
